@@ -44,10 +44,12 @@ I also maintain open source libraries and tools on GitHub, mostly focused on the
 | Cover | Title | Why |
 |-------|-------|-----|
 | <img src="https://cdn.myanimelist.net/images/anime/1314/108941.jpg" width="60"/> | Neon Genesis Evangelion | Existential dread as a design pattern |
+| <img src="https://cdn.myanimelist.net/images/anime/4/28803.jpg" width="60"/> | Gintama | Whimsical yet deep |
 | <img src="https://cdn.myanimelist.net/images/anime/5/73199.jpg" width="60"/> | Steins;Gate | Time complexity at its finest |
 | <img src="https://cdn.myanimelist.net/images/anime/1718/91550.jpg" width="60"/> | Serial Experiments Lain | The internet, but make it philosophical |
 | <img src="https://cdn.myanimelist.net/images/anime/1183/136187.jpg" width="60"/> | Ergo Proxy | Post-apocalyptic identity crisis |
 | <img src="https://cdn.myanimelist.net/images/anime/10/47347.jpg" width="60"/> | Attack on Titan | Scale, consequence, no easy answers |
+| <img src="https://cdn.myanimelist.net/images/manga/2/188925.jpg" width="60"/> | Vinland Saga | Seeking revenge and redemption |
 
 ---
 
