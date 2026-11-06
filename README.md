@@ -29,9 +29,9 @@ I design, build and operate **production-grade systems** end to end: backend API
 
 **How I work**
 
-- **Stack of choice**: Python/Django or Go on the backend, Flutter and Kotlin on mobile, MongoDB, PostgreSQL and Cassandra for data, Docker and the major cloud providers for delivery.
-- **Pragmatic about architecture**: layered designs (data / domain / presentation), typed code, automated tests, CI/CD.
-- **End-to-end ownership**: from requirements and design to deployment, monitoring and maintenance. I'm at my best when I own the whole lifecycle.
+- 🛠️ **Stack of choice**: Python/Django or Go on the backend, Flutter and Kotlin on mobile, MongoDB, PostgreSQL and Cassandra for data, Docker and the major cloud providers for delivery.
+- 📐 **Pragmatic about architecture**: layered designs (data / domain / presentation), typed code, automated tests, CI/CD.
+- 🚀 **End-to-end ownership**: from requirements and design to deployment, monitoring and maintenance. I'm at my best when I own the whole lifecycle.
 
 <br/>
 
