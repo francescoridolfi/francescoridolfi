@@ -1,7 +1,7 @@
 <!-- Header -->
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:4c1d95,100:7c3aed&height=260&section=header&text=Francesco%20Ridolfi&fontSize=70&fontColor=ffffff&fontAlignY=38&desc=Senior%20Fullstack%20Developer%20%7C%20IT%20Consultant&descSize=22&descAlignY=58&descColor=e9d5ff&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:4c1d95,100:7c3aed&height=260&section=header&text=Francesco%20Ridolfi&fontSize=70&fontColor=ffffff&fontAlignY=38&desc=Senior%20Software%20Engineer%20%7C%20IT%20Consultant&descSize=22&descAlignY=58&descColor=e9d5ff&animation=fadeIn)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Backend+APIs+%26+data+pipelines;Cross-platform+mobile+apps;LLM+integrations+%26+MCP+servers;Open+source+in+the+Django+ecosystem)](https://git.io/typing-svg)
 
@@ -15,7 +15,7 @@
 
 ## 👋 About me
 
-I'm a **Senior Fullstack Developer** and **IT Consultant** based in Rome, with a B.Sc. in Computer Engineering from Roma Tre University.
+I'm a **Senior Software Engineer** and **IT Consultant** based in Rome, with a B.Sc. in Computer Engineering from Roma Tre University.
 
 I design, build and operate **production-grade systems** end to end: backend APIs, data pipelines, cross-platform mobile apps, cloud infrastructure and, increasingly, **LLM-powered services**. I care about clean architecture, observability and shipping software that keeps working after launch.
 
@@ -29,9 +29,9 @@ I design, build and operate **production-grade systems** end to end: backend API
 
 **How I work**
 
-- Python/Django on the backend, Flutter and Kotlin on mobile, MongoDB/PostgreSQL for data, Docker and the major cloud providers for delivery.
-- Pragmatic about architecture: layered designs (data / domain / presentation), typed code, automated tests, CI/CD.
-- Comfortable owning a product from requirements to deployment and maintenance.
+- **Stack of choice**: Python/Django or Go on the backend, Flutter and Kotlin on mobile, MongoDB, PostgreSQL and Cassandra for data, Docker and the major cloud providers for delivery.
+- **Pragmatic about architecture**: layered designs (data / domain / presentation), typed code, automated tests, CI/CD.
+- **End-to-end ownership**: from requirements and design to deployment, monitoring and maintenance. I'm at my best when I own the whole lifecycle.
 
 <br/>
 
